@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Douglas Alencar
 
-- Cursando Bacharelado de sistema da informação 4/8
-- Estudando desenvolvimento Front-end
+- Cursando Bacharelado de sistema da informação 5/8
+- Estagiario analise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/DougAlencar">
