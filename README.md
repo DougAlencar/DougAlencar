@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Douglas Alencar
 
-- Cursando Bacharelado de sistema da informação 7/8
-- Estagiario analise e desenvolvimento de sistemas 
+- Bacharelado em sistema da informação
+- Arquiteto de soluções 
 
 <div align="center">
   <a href="https://github.com/DougAlencar">
